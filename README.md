@@ -1,4 +1,9 @@
 # pong
+
+### een tweede pogig
+
+Kijk of ik hem op Github kan krijgen..
+
 The base code structure for a pong game.
 
 Create your own github account and "fork" this project.
